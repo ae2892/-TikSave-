@@ -1,0 +1,5 @@
+{
+  "name": "TikSave - TikTok Video Downloader",
+  "description": "A modern, high-speed TikTok video downloader that allows users to save videos without watermarks, with watermarks, or as MP3 audio files.",
+  "requestFramePermissions": []
+}
